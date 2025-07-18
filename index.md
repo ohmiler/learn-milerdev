@@ -12,7 +12,7 @@ hero:
       link: /guide/what-is-milerdev-learn
     - theme: alt
       text: เริ่มต้นเรียนรู้
-      link: /api-examples
+      link: /guide/learn-html-css
       
 features:
   - title: แหล่งรวมความรู้
