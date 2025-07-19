@@ -23,8 +23,9 @@ export default defineConfig({
         items: [
           { text: 'HTML & CSS', link: '/guide/learn-html-css' },
           { text: 'JavaScript', link: '/guide/learn-javascript' },
+          { text: 'Design to Code', link: '/guide/learn-design-to-code' },
         ]
-      },
+      }
     ],
 
     socialLinks: [
