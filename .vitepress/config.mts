@@ -24,6 +24,7 @@ export default defineConfig({
           { text: 'HTML & CSS', link: '/guide/learn-html-css' },
           { text: 'JavaScript', link: '/guide/learn-javascript' },
           { text: 'Design to Code', link: '/guide/learn-design-to-code' },
+          { text: 'ReactJS', link: '/guide/learn-reactjs' },
         ]
       }
     ],
