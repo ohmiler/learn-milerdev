@@ -8,7 +8,6 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: [
@@ -25,6 +24,14 @@ export default defineConfig({
           { text: 'JavaScript', link: '/guide/learn-javascript' },
           { text: 'Design to Code', link: '/guide/learn-design-to-code' },
           { text: 'ReactJS', link: '/guide/learn-reactjs' },
+        ]
+      },
+      {
+        text: 'Back-End',
+        items: [
+          { text: 'NodeJS', link: '/guide/learn-nodejs' },
+          { text: 'NodeJS CRUD API', link: '/guide/learn-nodejs-crud-api' },
+          { text: 'NodeJS Deploy', link: '/guide/learn-nodejs-deploy' },
         ]
       }
     ],
